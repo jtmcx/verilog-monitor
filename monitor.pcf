@@ -1,0 +1,4 @@
+set_io hsyncout 79
+set_io vsyncout 78
+set_io dataout 87
+set_io clk 21
