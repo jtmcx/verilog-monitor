@@ -8,5 +8,5 @@ that seems to be lost.
 ## Demo
 
 <p align="center">
-  <img width="460" src="images/monitor.png">
+  <img width="460" src="images/monitor.gif">
 </p>
